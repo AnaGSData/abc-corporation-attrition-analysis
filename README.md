@@ -164,9 +164,7 @@ assets/
 └── attrition_heatmap.png
 
 docs/
-├── talent-retention-documentation.md
-├── user-stories.pdf
-└── final-demo-presentation.pdf
+└── talent-retention-documentation.md
 
 files/
 └── hr-data.csv
